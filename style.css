@@ -193,6 +193,7 @@ body {
 
 .pic {
   max-width: 50%;
+  display: none;
 }
 
 .texte {
@@ -206,7 +207,7 @@ body {
 
 .p2 {
   font-size: 14px;
-  display: none;
+  
   width: 100%;
 }
 
