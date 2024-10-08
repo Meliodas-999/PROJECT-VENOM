@@ -206,6 +206,7 @@ body {
 
 .p2 {
   font-size: 14px;
+  display: hidden;
   width: 100%;
 }
 
@@ -264,3 +265,4 @@ body {
   margin: 10px 0;
 }
 }
+  
